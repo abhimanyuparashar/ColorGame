@@ -1,6 +1,6 @@
 # Color Game
 
-Its an interesting color guessing game in which u will be provided with RGB code and you have to guess the right color of that RGB code.
+Its an interesting color guessing game in which player will be provided with RGB code and they have to guess the right color of that RGB code.
 
 ## Features
 1. Different levels are provided like Easy and Hard.
