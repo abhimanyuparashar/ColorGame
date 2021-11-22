@@ -14,6 +14,7 @@ Its an interesting color guessing game in which player will be provided with RGB
 3. Hard : Hard button switches no. of cards from 3 -> 6.
 4. Play Again : After Win player does not need to reload page Play again restart the application from the initial page.
 ## Methodology Flow Chart
+![image](https://user-images.githubusercontent.com/68697068/142853324-955d83a1-6db1-43fe-8efd-9bd8d05a5cbd.png)
 
 ## I/O Screenshots
 ### Initial Page
